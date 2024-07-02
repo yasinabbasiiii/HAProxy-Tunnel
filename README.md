@@ -5,7 +5,7 @@ To use HAProxy Tunnel, simply download and run the `haproxy.sh` script. You can 
 wget -Nq https://github.com/Musixal/haproxy-tunnel/raw/main/haproxy.sh && bash haproxy.sh
 ```
 # Menu
-![Menu](https://github.com/Musixal/haproxy-tunnel/blob/main/haproxy-menu.png)
+![Menu](https://github.com/yasinabbasiiii/haproxy-tunnel/blob/main/haproxy-menu.png)
 
 # Donation Link
 
